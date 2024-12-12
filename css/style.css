@@ -96,7 +96,6 @@ img {
 }
 
 .button,
-.intro,
 .links-container,
 .slidedown,
 .external-link {
@@ -105,6 +104,16 @@ img {
     padding: .5em 1em;
     text-decoration: none;
     color: inherit;
+    text-align: center;
+}
+
+.intro{
+    width: 100%;
+    min-width: 50%;
+    padding: .5em 1em;
+    text-decoration: none;
+    color: inherit;
+    background-color: rgba(0, 0, 0, 0.67);
     text-align: center;
 }
 
